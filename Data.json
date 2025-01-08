@@ -1,0 +1,9 @@
+{
+    "data": {
+        "patientName1": "Baby of Joe",
+        "patientName2": "Devid1 Roy1",
+        "patientName3": "Devid2 Roy2",
+        "exportButtonTooltip": "Export To Excel",
+        "printButtonTooltip": "Print grid data"
+    }
+}
